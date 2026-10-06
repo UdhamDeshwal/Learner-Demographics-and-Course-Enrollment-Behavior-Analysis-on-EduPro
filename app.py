@@ -674,10 +674,10 @@ presentation_mode = st.sidebar.toggle(
 st.sidebar.markdown("---")
 st.sidebar.markdown("### 🔗 Project Resources")
 st.sidebar.markdown(
-    "[GitHub Repository](https://github.com/anandrajyadav/EduPro-Learner-Analytics)"
+    "[GitHub Repository](https://github.com/UdhamDeshwal/Learner-Demographics-and-Course-Enrollment-Behavior-Analysis-on-EduPro)"
 )
 st.sidebar.markdown(
-    "[Research DOI — Zenodo](https://doi.org/10.5281/zenodo.22816169)"
+    "[Research DOI ](https://drive.google.com/file/d/13JNEWjhoch7QyJWeJyRgjpVIXPMjSPKf/view?usp=sharing)"
 )
 st.sidebar.caption("Public research record • Descriptive analytics • SDG 4 context")
 
